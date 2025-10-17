@@ -81,7 +81,7 @@ export default function Header() {
                         href="/dashboard/new"
                         className="block text-sm font-semibold text-indigo-600 hover:text-indigo-800"
                     >
-                        + Tạo
+                        + Tạo 
                     </a>
 
                     {user ? (
